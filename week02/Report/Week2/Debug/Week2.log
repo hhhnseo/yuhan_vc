@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\wkdgu\OneDrive\Desktop\vcpp\Week2\Week2\소스.cpp(12,7): warning C4101: 'exitProgram' :참조되지 않은 지역 변수입니다.
+  Week2.vcxproj -> C:\Users\wkdgu\OneDrive\Desktop\vcpp\Week2\Debug\Week2.exe
